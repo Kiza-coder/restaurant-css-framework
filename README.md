@@ -1,1 +1,1 @@
-# restaurant-css-framework
+## Restaurant : Bootstrap exercise.
