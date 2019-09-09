@@ -1,0 +1,35 @@
+@font-face {
+  font-family: fontFirst;
+  src: url(sansation_light.woff);
+}
+
+header{
+	font-family:fontFirst;
+		.navbar{
+			background-color:#100F0F;	
+			.nav-item{
+				.nav-link{
+					color:#EEEC00;
+				}
+			}	
+		}
+		.jumbotron{
+ background-image: linear-gradient(to right, #000000, #4f2624, #935127, #bd9012, #bddd17);			 color:white;
+		}
+
+}
+
+
+body{
+	  background-image: linear-gradient(to right, #000000, #4f2624, #935127, #bd9012, #bddd17);			 color:white;
+	  .blank{
+	  	color:white;
+	  	background-color:white;
+	  }
+
+}
+
+
+.list-group{
+		background-color:blue;
+}
