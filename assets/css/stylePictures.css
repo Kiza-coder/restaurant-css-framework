@@ -25,8 +25,12 @@ body {
   background-color: #100F0F;
 }
 body .blank {
-  background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
   color: white;
+  background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
+}
+body .img-fit {
+  width: 400px;
+  height: 250px;
 }
 
 footer .copyright {
@@ -34,4 +38,4 @@ footer .copyright {
   color: black;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=stylePictures.css.map */

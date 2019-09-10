@@ -3,6 +3,7 @@
   src: url(sansation_light.woff);
 }
 
+
 header{
 	
 		.navbar{
@@ -33,16 +34,21 @@ header{
 
 
 
-
 body{
 	color:white;
 	font-family:fontFirst;
 	 background-color:#100F0F;
+	
+	 
 	  .blank{
-	  	 background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
-	  	 color:white;
-	  	  }
-
+	  	color:white;
+	  	background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);;	
+	  }
+	  .img-fit{
+	  	width:400px;
+	  	height:250px;
+	  }
+	
 }
 
 footer{
@@ -50,4 +56,4 @@ footer{
 	 background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
 	color:black;
 	}
-}
+}	

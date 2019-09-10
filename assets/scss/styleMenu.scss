@@ -38,12 +38,24 @@ body{
 	color:white;
 	font-family:fontFirst;
 	 background-color:#100F0F;
+	 .container{
+	 	
+		.chg-cont{
+			color:white;
+			background-color:#100F0F;
+			padding-top:5px;
+
+		}
+	}
+	 
 	  .blank{
-	  	 background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
-	  	 color:white;
-	  	  }
+	  	color:white;
+	   background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
+	  }
+	
 
 }
+
 
 footer{
 .copyright{

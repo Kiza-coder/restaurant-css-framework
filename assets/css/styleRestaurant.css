@@ -24,9 +24,14 @@ body {
   font-family: fontFirst;
   background-color: #100F0F;
 }
-body .blank {
-  background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
+body .container .chg-cont {
   color: white;
+  background-color: #100F0F;
+  padding-top: 5px;
+}
+body .blank {
+  color: white;
+  background-image: linear-gradient(to top, #bfa305, #c4b440, #cac367, #d2d38b, #dce1af);
 }
 
 footer .copyright {
@@ -34,4 +39,4 @@ footer .copyright {
   color: black;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=styleRestaurant.css.map */
